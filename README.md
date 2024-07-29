@@ -1,2 +1,3 @@
-# python-concatenation-starter
-Starter files for the lesson about string concatenation in Python.
+Not sure how to format the contents of your markdown (.md) file?
+
+Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for some examples!
