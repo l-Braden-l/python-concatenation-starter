@@ -39,3 +39,20 @@ fullName = first_name + last_name
 
 # Print my full name
 print ("My full name is: " + fullName)
+
+
+# Example 3: f-strings
+# A more modern alternative to concatenation
+person = "Bob"
+greeting = f"Hi, {person}! How are you doing today?"
+print(greeting)  # Output: Hi, Bob! How are you doing today?
+
+
+# Example 4
+# Can't embed numeric data (numbers) directly into a Python string
+# You must convert the numeric data to string data first before you can embed it in a string
+age = 21 # A piece of numeric data (a number)
+friend = 'Jason'
+# Note the spaces I added to make the string look nice when it displays
+birthday_wish = 'We wish you a happy birthday, ' + friend + ' because you are turning ' + str(age) + ' years old today.'
+print(birthday_wish)
