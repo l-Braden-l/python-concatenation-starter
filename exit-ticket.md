@@ -5,7 +5,7 @@
 - Please answer the following questions 
 - Use correct spelling and grammar
 
-#### List two (2) disadvantages or problems with using concatenation to build strings.
+#### List two (2) disadvantages or problems with using concatenation to build Python strings.
 - *Your answer here...*
 - *Your answer here...*
 
