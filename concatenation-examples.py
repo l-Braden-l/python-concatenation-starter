@@ -49,7 +49,7 @@ print(greeting)  # Output: Hi, Bob! How are you doing today?
 
 
 # Example 4
-# Can't embed numeric data (numbers) directly into a Python string
+# When using concatenation, you can't embed numeric data (numbers) directly into a Python string
 # You must convert the numeric data to string data first before you can embed it in a string
 age = 21 # A piece of numeric data (a number)
 friend = 'Jason'
