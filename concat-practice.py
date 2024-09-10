@@ -13,7 +13,7 @@
 
 # Part 2
 # Assume you're building a Space Invaders game
-# Use concatenation to create and display a custom message to the user that includes his/her first name
+# Use concatenation to create and display a custom welcome message that includes the player's first name
 
 
 
