@@ -3,7 +3,8 @@
 
 # Work with your assigned partner
 # Each person in your team should take turns writing the code to create and display longer strings
-
+# Check your partner's code for spelling, capitalization, and coding errors
+# Correct any bugs in your code
 
 # Part 1
 # Create variables to store your first, middle, and last name
