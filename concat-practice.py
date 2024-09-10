@@ -2,7 +2,7 @@
 
 
 # Work with your assigned partner
-# Each person in your team should write the code to create and display longer strings
+# Each person in your team should take turns writing the code to create and display longer strings
 
 
 # Part 1
