@@ -7,7 +7,7 @@
 
 # Part 1
 # Create variables to store your first, middle, and last name
-# Then have Python write and print a message that contains your concatenated names
+# Have Python print a message that contains your concatenated full name, i.e., your combined first, middle and last names
 
 
 
