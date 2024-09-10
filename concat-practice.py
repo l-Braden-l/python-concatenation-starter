@@ -23,5 +23,5 @@
 
 
 # Part 4
-# Use concatenation to create and display a sentence that tells the user which country in the world
+# Use concatenation to create and display a sentence that says which country in the world
 # you would visit if money were no object
