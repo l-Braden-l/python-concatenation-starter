@@ -3,7 +3,7 @@
 # String Concatenation
 
 # Part 1
-# Use concatenation to build and display a string that says which city and state you live in
+# Use concatenation to build and display a string that displays which city and state you live in
 
 
 
