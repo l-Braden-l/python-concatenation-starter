@@ -12,7 +12,7 @@ Another issue is that it is less modern, and less people would use it over the y
 
 
 #### What's one advantage of using an f-string to build a string in Python?  (HINT: Think numeric data!)
-one advantage of using an f-string to build a string in python is when a veriable is a numeric value you can just put it in there. Compared to concatenation where you have to add the str function. 
+one advantage of using an f-string to build a string in python is when a variable is a numeric value you can just put it in there. Compared to concatenation where you have to add the str function. 
 
 
 
